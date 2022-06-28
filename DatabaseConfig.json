@@ -1,0 +1,16 @@
+{
+    "share_point": 
+        {
+            "user": "UserName",
+            "password": "Password",
+            "url": "https://{Companyname}.sharepoint.com/sites/{Sitename}/{folder1}/{folder2}/{ExcelName}.xlsx?cid={ExcelUniqueID}",
+
+        },
+    "database": 
+        {
+            "server" : "localhost",
+            "database" : "TestEnvironment",
+            "username" : "DBusername", 
+            "password" : "DBpassword"
+        }
+}
